@@ -1,5 +1,5 @@
 ﻿# TareaGit
-Mi nombre es Ivan Vazquez Louzao En esta tarea he creado un fichero markdown en el cual voy a realizar la documentacion del ejercicio.
+Mi nombre es Ivan Vazquez Louzao En esta tarea he creado este fichero markdown en el cual voy a realizar la documentacion del ejercicio.
 
 # Imagenes
 En la carpeta images he subido las capturas que documentan los pasos que he realizado
