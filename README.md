@@ -24,4 +24,4 @@ git push -u origin main
 #  Subir archivos al repositorio remoto
 Mediante el comando Git push he subido los archivos al repositorio
 
-![Comando para subir archivos al repositorio](images\subir.png)
+![Comando para subir archivos al repositorio](images/subir.png)
