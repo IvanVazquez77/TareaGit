@@ -10,14 +10,14 @@ A traves del comando winget install git.git he instalado GIT
 
 
 # Crear repositorio remoto
-Mediante estos comandos he configurado el repositorio remoto
-echo "# TareaGit" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/IvanVazquez77/TareaGit.git
-git push -u origin main
+## Mediante estos comandos he configurado el repositorio remoto
+## echo "# TareaGit" >> README.md
+## git init
+## git add README.md
+## git commit -m "first commit"
+## git branch -M main
+## git remote add origin https://github.com/IvanVazquez77/TareaGit.git
+## git push -u origin main
 
 ![Comando para crear repositorio remoto](images/1.png)
 
